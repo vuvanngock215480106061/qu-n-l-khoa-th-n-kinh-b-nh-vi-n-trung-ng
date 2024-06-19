@@ -139,6 +139,8 @@ Truy vấn lịch trực của nhân viên trong khoảng thời gian nhất đ�
 1. Bảng Patients (Bệnh nhân)
 Khóa chính: PatientID
 
+![image](https://github.com/vuvanngock215480106061/qu-n-l-khoa-th-n-kinh-b-nh-vi-n-trung-ng/assets/173239216/e3f5ac43-ec89-493c-a910-836e3123c69e)
 
+2. Bảng Doctors (Bác sĩ)
 
  
